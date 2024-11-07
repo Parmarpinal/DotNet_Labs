@@ -1,0 +1,34 @@
+﻿
+<div class="text-center fs-3">Employee List</div>
+<a href="@Url.Action("EmployeeForm", "Home")" class="btn btn-primary">Add</a>
+<table class="table mt-3 table-striped">
+    <thead>
+        <tr class="table-primary">
+            <th>Employee ID</th>
+            <th>Name</th>
+            <th>Designation</th>
+            <th>Email</th>
+            <th>Salary</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>@employee.ID</td>
+                <td>@employee.Name</td>
+                <td>@employee.Designation</td>
+                <td>@employee.Email</td>
+                <td>@employee.Salary</td>
+                <td>
+                    <a class="btn btn-warning" asp-controller="Home" asp-action="EmployeeForm" asp-route-ID="@employee.ID">Edit</a>
+                </td>
+                <td>
+                    <a class="btn btn-danger" asp-controller="Home" asp-action="Delete" asp-route-ID="@employee.ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

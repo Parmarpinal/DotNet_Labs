@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pinal_College\\TA_DotNetCoreMVC\\ConsoleApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A72452D-9A91-4721-9671-B77B1BCF9E8D}|..\\Lab5\\Lab5.csproj|d:\\pinal_college\\ta_dotnetcoremvc\\lab5\\problem6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A72452D-9A91-4721-9671-B77B1BCF9E8D}|..\\Lab5\\Lab5.csproj|d:\\pinal_college\\ta_dotnetcoremvc\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A72452D-9A91-4721-9671-B77B1BCF9E8D}|..\\Lab5\\Lab5.csproj|d:\\pinal_college\\ta_dotnetcoremvc\\lab5\\problem5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A72452D-9A91-4721-9671-B77B1BCF9E8D}|..\\Lab5\\Lab5.csproj|d:\\pinal_college\\ta_dotnetcoremvc\\lab5\\problem4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A72452D-9A91-4721-9671-B77B1BCF9E8D}|..\\Lab5\\Lab5.csproj|d:\\pinal_college\\ta_dotnetcoremvc\\lab5\\problem3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A72452D-9A91-4721-9671-B77B1BCF9E8D}|..\\Lab5\\Lab5.csproj|d:\\pinal_college\\ta_dotnetcoremvc\\lab5\\problem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A72452D-9A91-4721-9671-B77B1BCF9E8D}|..\\Lab5\\Lab5.csproj|d:\\pinal_college\\ta_dotnetcoremvc\\lab5\\problem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem6.cs",
+              "DocumentMoniker": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem6.cs",
+              "RelativeDocumentMoniker": "..\\Lab5\\Problem6.cs",
+              "ToolTip": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem6.cs",
+              "RelativeToolTip": "..\\Lab5\\Problem6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:59:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Problem5.cs",
+              "DocumentMoniker": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem5.cs",
+              "RelativeDocumentMoniker": "..\\Lab5\\Problem5.cs",
+              "ToolTip": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem5.cs",
+              "RelativeToolTip": "..\\Lab5\\Problem5.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:09:33.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Problem2.cs",
+              "DocumentMoniker": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem2.cs",
+              "RelativeDocumentMoniker": "..\\Lab5\\Problem2.cs",
+              "ToolTip": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem2.cs",
+              "RelativeToolTip": "..\\Lab5\\Problem2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:44:07.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Problem4.cs",
+              "DocumentMoniker": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem4.cs",
+              "RelativeDocumentMoniker": "..\\Lab5\\Problem4.cs",
+              "ToolTip": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem4.cs",
+              "RelativeToolTip": "..\\Lab5\\Problem4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:44:05.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Problem3.cs",
+              "DocumentMoniker": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem3.cs",
+              "RelativeDocumentMoniker": "..\\Lab5\\Problem3.cs",
+              "ToolTip": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem3.cs",
+              "RelativeToolTip": "..\\Lab5\\Problem3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:44:04.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Problem1.cs",
+              "DocumentMoniker": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem1.cs",
+              "RelativeDocumentMoniker": "..\\Lab5\\Problem1.cs",
+              "ToolTip": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Problem1.cs",
+              "RelativeToolTip": "..\\Lab5\\Problem1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:41:33.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab5\\Program.cs",
+              "ToolTip": "D:\\Pinal_College\\TA_DotNetCoreMVC\\Lab5\\Program.cs",
+              "RelativeToolTip": "..\\Lab5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:37:46.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

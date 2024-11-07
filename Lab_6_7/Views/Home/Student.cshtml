@@ -1,0 +1,26 @@
+﻿<div class="fs-2 text-center">Student details</div>
+<table class="table table-hover mt-2">
+    <thead>
+        <tr class="table-primary">
+            <th scope="col">Student Name</th>
+            <th scope="col">Roll No</th>
+            <th scope="col">Sem1 SPI</th>
+            <th scope="col">Sem2 SPI</th>
+            <th scope="col">Sem3 SPI</th>
+            <th scope="col">Sem4 SPI</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in ViewBag.Students)
+        {
+            <tr>
+                <td scope="row">@student.StudentName</td>
+                <td>@student.RollNo</td>
+                <td>@student.Sem1SPI</td>
+                <td>@student.Sem2SPI</td>
+                <td>@student.Sem3SPI</td>
+                <td>@student.Sem4SPI</td>
+            </tr>
+        }      
+    </tbody>
+</table>

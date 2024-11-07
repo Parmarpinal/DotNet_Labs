@@ -1,0 +1,14 @@
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\bin\Debug\net8.0\Lab2.exe
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\bin\Debug\net8.0\Lab2.deps.json
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\bin\Debug\net8.0\Lab2.dll
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\bin\Debug\net8.0\Lab2.pdb
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\obj\Debug\net8.0\Lab2.dll
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\obj\Debug\net8.0\Lab2.pdb
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+D:\Pinal_College\TA_DotNetCoreMVC\Lab2\obj\Debug\net8.0\ref\Lab2.dll

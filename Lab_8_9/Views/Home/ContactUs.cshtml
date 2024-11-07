@@ -1,0 +1,59 @@
+﻿
+<div>
+    <h4>This is Contact Us page</h4>
+    <form method="post" asp-controller="Home" asp-action="Save">
+        <div class="container mt-3">
+            <div class="row m-2 form-group">
+                <div class="col-2">Your Name</div>
+                <div class="col-3">
+                    <input type="text" class="form-control" name="Name" />
+                </div>
+            </div>
+            <div class="row m-2 form-group">
+                <div class="col-2">Your Email</div>
+                <div class="col-3">
+                    <input type="text" class="form-control" name="Email" />
+                </div>
+            </div>
+            <div class="row m-2 form-group">
+                <div class="col-2">Your Phone No.</div>
+                <div class="col-3">
+                    <input type="text" class="form-control" name="Phone" />
+                </div>
+            </div>
+            <div class="row m-2 form-group">
+                <div class="col-2">Your City</div>
+                <div class="col-3">
+                    <input type="text" class="form-control" name="City" />
+                </div>
+            </div>
+            <div class="row m-2 form-group">
+                <div class="col-2">
+                    <input type="submit" class="btn btn-primary" value="Submit" />
+                </div>
+            </div>
+        </div>
+    </form>
+
+    @if (ViewBag.User != null)
+    {
+        <table class="table mt-5 w-50">
+            <thead>
+                <tr class="table-warning">
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Phone No.</th>
+                    <th>City</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @foreach(var v in ViewBag.User)
+                    {
+                        <td>@v</td>
+                    }
+                </tr>
+            </tbody>
+        </table>
+    }
+</div>
